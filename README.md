@@ -14,7 +14,7 @@ this is a test Repository
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-     <!-- http或者https链接的ipa文件地址 -->
+     <itms-services:///?action=download-manifest&url=https://appdownload.1919hdtv.com/download/app_files/apple/manifest.plist -->
      <string>http://x5.justep.com/apps/x5.ipa</string>
     </dict>
     <dict>
